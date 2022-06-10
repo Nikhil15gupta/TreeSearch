@@ -5,10 +5,10 @@
 2. TreeSearch.py
 3. random-words.txt
 
-**How to run? :**
+**How to run ? :**
 
-**1. Using executable file(TreeSearch.exe)  :**
- - Download the files and double-click on 'TreeSearch.exe'
+**1. Using executable file(TreeSearch.exe) :**
+ - Download the files and double-click on 'TreeSearch.exe'.
  
 **2. Using python script(TreeSearch.py) :**
 
