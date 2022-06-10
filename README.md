@@ -21,4 +21,4 @@
       ii. To run Python script with the command line, you need to open a command-line and type in the word
           python, or python3 if you have both versions, followed by the path to your script.
    
- **NOTE:  Please ensure all the files are present at the same location**
+ **NOTE:  Please ensure all the files are present at the same location.**
